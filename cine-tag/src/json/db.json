@@ -1,0 +1,116 @@
+[
+        {
+            "id": 1,
+            "titulo": "Hogwarts Legacy Iniciando no mundo de Harry Potter #'1",
+            "capa": "https://i.ytimg.com/vi/qfVoDcTDzb4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhCclfQjkqMZg8DWef52BpROr99Q",
+            "link": "https://www.youtube.com/embed/qfVoDcTDzb4"
+        },
+        {
+            "id": 2,
+            "titulo": "Hogwarts Legacy - Chapéu escolheu Grifinoria #2",
+            "capa": "https://i.ytimg.com/vi/tg3MA6ZEZN4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCq9KXJeAuHgbvDvS0kRun8VgHxow",
+            "link": "https:/www.youtube.com/embed/tg3MA6ZEZN4"
+        },
+        {
+            "id": 3,
+            "titulo": "Hogwarts Legacy - Minha nova varinha #3",
+            "capa": "https://i.ytimg.com/vi/OVSH1cocLeM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhIERchN0Gqn61H0qUGb2ntiZTyQ",
+            "link": "https:/www.youtube.com/embed/OVSH1cocLeM"
+        },
+        {
+            "id": 4,
+            "titulo": "Hogwarts Legacy Duelos entre alunos verdadeiro rocky balboa das varinhas #4",
+            "capa": "https://i.ytimg.com/vi/GaxJhuIwP4Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAiN97rWg6vWjL5II6ld4BB677N2Q",
+            "link": "https:/www.youtube.com/embed/GaxJhuIwP4Q"
+        },
+        {
+            "id": 5,
+            "titulo": "Hogwarts Legacy - Invadindo a área reservada da biblioteca de hogwarts #5",
+            "capa": "https://i.ytimg.com/vi/F54IqGdwn7M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDRY_JvCHDPz6hsv6qFKB7taUnMoQ",
+            "link": "https://www.youtube.com/embed/F54IqGdwn7M"
+        },
+        {
+            "id": 6,
+            "titulo": "Hogwarts Legacy - Mergulhei para encontrar itens raros #6",
+            "capa": "https://i.ytimg.com/vi/b6hCQ2XLh2c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA9aew4CRu4F_RFRAhoOxLoWq_HBQ",
+            "link": "https:/www.youtube.com/embed/b6hCQ2XLh2c"
+        },
+        {
+            "id": 7,
+            "titulo": "Hogwarts Legacy - Herbologia, Poções e fantasmas #7",
+            "capa": "https://i.ytimg.com/vi/nAmCjSJZ-1M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHAFrVCRu3vKYiRug-poy9yNWx6w",
+            "link": "https:/www.youtube.com/embed/nAmCjSJZ-1M"
+        },
+        {
+            "id": 8,
+            "titulo": "Hogwarts Legacy - liberamos a EXPELLIARMUS #8",
+            "capa": "https://i.ytimg.com/vi/IS_iifwzMhE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAdqERpdsmvYaES3Ohp4LjkOwsGOA",
+            "link": "https:/www.youtube.com/embed/IS_iifwzMhE"
+        },
+        {
+            "id": 9,
+            "titulo": "Hogwarts Legacy - Dungeon de Aranhas e Magia Ancestral #9",
+            "capa": "https://i.ytimg.com/vi/yMWDQwTPObY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDaGx-ad7kBsq0ZckaRJQr5tvbuQA",
+            "link": "https://www.youtube.com/embed/yMWDQwTPObY"
+        },
+        {
+            "id": 10,
+            "titulo": "Hogwarts Legacy - Vassoura voadora e livro de talentos #10",
+            "capa": "https://i.ytimg.com/vi/W9e4El5ae-w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7x4kLIvzW9vf7w8yj7mRZRLZXUQ",
+            "link": "https:/www.youtube.com/embed/W9e4El5ae-w"
+        },
+        {
+            "id": 11,
+            "titulo": "Hogwarts Legacy - Capturando animais e me estressando com borboletas mágicas #11.",
+            "capa": "https://i.ytimg.com/vi/6VCfMVsevuY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSglexQ5amNT8gv4AR62482YIiSA",
+            "link": "https:/www.youtube.com/embed/6VCfMVsevuY"
+        },
+        {
+            "id": 12,
+            "titulo": "Hogwarts Legacy - Mandrágoras, Ruína do Castelos de Falbarton e Hipogrifo #12.",
+            "capa": "https://i.ytimg.com/vi/Wj3zMQXRLzU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDufX1YI5uNSNYFxfo-mffuwvq4fg",
+            "link": "https:/www.youtube.com/embed/Wj3zMQXRLzU"
+        },
+        {
+            "id": 13,
+            "titulo": "Hogwarts Legacy - Missões principais Castelo de Rockwood #13",
+            "capa": "https://i.ytimg.com/vi/WyyLXyIIqzs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCa17bx8G0rFmODXWa4FD0lrUBZOg",
+            "link": "https://www.youtube.com/embed/WyyLXyIIqzs"
+        },
+        {
+            "id": 14,
+            "titulo": "Hogwarts Legacy - Missões secundárias Dragões e Duendes #14",
+            "capa": "https://i.ytimg.com/vi/LL63dMZWwYI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAqshgKH9tZIdO6r5A8-tvGe-d-VQ",
+            "link": "https:/www.youtube.com/embed/LL63dMZWwYI"
+        },
+        {
+            "id": 15,
+            "titulo": "Hogwarts Legacy - Aprendi Crucio arrebentei os Duendes na mina #15",
+            "capa": "https://i.ytimg.com/vi/oHqwqoezVa0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCb_P0iHA1jIponJ9kp_8xrVAiwqA",
+            "link": "https:/www.youtube.com/embed/oHqwqoezVa0"
+        },
+        {
+            "id": 16,
+            "titulo": "Hogwarts Legacy - Verei o diretor e quase buguei no teste do ancião preto e branco #16",
+            "capa": "https://i.ytimg.com/vi/bjqWbCNTmBo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAW9u8EOUkSnFOWIV9I19kksoxxsg",
+            "link": "https:/www.youtube.com/embed/bjqWbCNTmBo"
+        },
+        {
+            "id": 17,
+            "titulo": "Hogwarts Legacy - Segredos de Isidora encontrados na caverna #17",
+            "capa": "https://i.ytimg.com/vi/Tg_sDIHe3Zc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB73NN0qg3V5htI9BtECEze9NXQ2w",
+            "link": "https://www.youtube.com/embed/Tg_sDIHe3Zc"
+        },
+        {
+            "id": 18,
+            "titulo": "ogwarts Legacy - Ranrok e seu irmão, derrotando diversos duendes e trasgos #18",
+            "capa": "https://i.ytimg.com/vi/C6GF3iFp4bU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDikppn3EMlotrftDrjD6Iftn1ezg",
+            "link": "https:/www.youtube.com/embed/C6GF3iFp4bU"
+        },
+        {
+            "id": 19,
+            "titulo": "Hogwarts Legacy - Ultimo desafio dos Guardiões e Batalha Final contra Ranrok #19",
+            "capa": "https://i.ytimg.com/vi/oiQD2Nw7xTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNESEd2bIvn-9-D2wt9WaK60qcQA",
+            "link": "https:/www.youtube.com/embed/oiQD2Nw7xTY"
+        }
+    ]

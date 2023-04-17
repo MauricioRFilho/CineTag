@@ -1,0 +1,31 @@
+.container {
+    padding: 0 0 1em 0;
+    margin: .5em 15px;
+    width: 225px;
+    background-color: var(--cinza);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 230px;
+}
+
+.capa {
+    width: 100%;
+}
+
+.container h2,
+.favoritar {
+    padding: 0 1em;
+    font-size: 14px;
+
+}
+
+.favoritar {
+    width: 18px;
+}
+
+.link {
+    text-decoration: none;
+    color: var(--preto);
+    text-align: left;
+}
