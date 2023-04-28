@@ -29,3 +29,16 @@
     color: var(--preto);
     text-align: left;
 }
+
+@media (max-width:650px){
+    .container {
+        padding: 0 0 1em 0;
+        margin: .5em 10px;
+        width: 45%;
+        background-color: var(--cinza);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 230px;
+    }
+}

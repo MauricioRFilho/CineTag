@@ -19,3 +19,8 @@
     text-decoration: none;
     color: var(--branco);
 }
+
+.logo{
+    display: block;
+    width: 145px;
+}

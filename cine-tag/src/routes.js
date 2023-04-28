@@ -1,9 +1,9 @@
-import Favoritos from "pages/favoritos";
+import Favoritos from "pages/favorites";
 import Home from "pages/home";
 import Player from "pages/player";
 import Footer from "components/Footer";
 import Header from "components/Header";
-import FavoritosProvider from "contextos/Favoritos";
+import FavoritosProvider from "context/Favoritos";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import NotFound from "pages/NotFound";
 

@@ -6,9 +6,9 @@ import MenuLink from "components/MenuLink";
 function Header(){
     return(
         <div className={styles.header}>
-            <div className="container-header">
+            <div className={styles.containerHeader}>
                 <Link to="./">
-                    <img src={logo} alt='logo'/>
+                    <img className={styles.logo} src={logo} alt='logo'/>
                 </Link>
                 <nav>
                     <MenuLink link='./'>

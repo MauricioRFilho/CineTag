@@ -1,7 +1,7 @@
 import styles from './Cards.module.css'
 import favIcon from './favorite_outline.png'
 import unFav from './favorite.png'
-import { useFavContext } from 'contextos/Favoritos'
+import { useFavContext } from 'context/Favoritos'
 import { Link } from 'react-router-dom';
 
 function Cards({id, titulo, capa}){

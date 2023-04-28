@@ -20,11 +20,10 @@ function Home(){
         <>
         <Banner imagem='home' bannerName='Banner da página inicial'/>
         <Title page='home'> 
-            Um lugar para guardar seus vídeos e filmes!
+            Meus videos!
         </Title>
         <Container>
 
-        <div className="cards-container">
         {/* {videos.map(card => <Cards titulo={card.titulo} capa={card.capa} key={card.id} id={card.id}/>) }  */}
         {/* AQUI FOI A PRIMEIRA FORMA QUE APRENDI  */}
 
@@ -33,7 +32,6 @@ function Home(){
         ))}
         {/* A segunda forma não precisa atribuir as keys se os valores forem iguais */}
 
-        </div>
         </Container>
 
         </>

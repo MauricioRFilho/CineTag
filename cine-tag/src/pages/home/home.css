@@ -1,12 +1,4 @@
 
 .cards-container{
-    display: flex;
-    width: 90%;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    margin: auto;
-    padding-bottom: 40px;
+
 }
