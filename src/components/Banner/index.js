@@ -23,7 +23,7 @@ function Banner({bannerName, imagem}){
     }
     return(
         <div className={styles.Banner}>
-            <img src={banner} alt={bannerName}/>
+            <img className={styles.Banner} src={banner} alt={bannerName}/>
         </div>
     )
 }

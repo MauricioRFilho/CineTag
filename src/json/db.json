@@ -1,4 +1,5 @@
-[
+{"Videos": 
+    [
         {
             "id": 1,
             "titulo": "Hogwarts Legacy Iniciando no mundo de Harry Potter #'1",
@@ -114,3 +115,5 @@
             "link": "https:/www.youtube.com/embed/oiQD2Nw7xTY"
         }
     ]
+}
+

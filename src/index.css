@@ -16,3 +16,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.slick-slider {
+  width: 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #000!important;
+}
+
+.slick-slide {
+  padding: 0 20px;
+}
+
+#fav {
+  width: 300px!important;
+  height: 250px!important;
+}

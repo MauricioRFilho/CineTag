@@ -1,12 +1,12 @@
 .container {
     padding: 0 0 1em 0;
-    margin: .5em 15px;
-    width: 225px;
+    margin: 0.5em 15px;
+    width: 100%;
     background-color: var(--cinza);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 230px;
+    height: 280px;
 }
 
 .capa {
@@ -21,7 +21,7 @@
 }
 
 .favoritar {
-    width: 18px;
+    width: 40px;
 }
 
 .link {

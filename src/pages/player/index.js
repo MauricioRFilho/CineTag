@@ -10,7 +10,7 @@ function Player() {
     const parametros = useParams();
     const [video, setVideos] = useState([]);
     useEffect(()=>{
-        fetch(`https://my-json-server.typicode.com/MauricioRFilho/dbcine/videos?id=${parametros.id}`)
+        fetch(`https://my-json-server.typicode.com/MauricioRFilho/demo/videos?id=${parametros.id}`)
         .then(response => response.json())
         .then(data => {
             setVideos(...data)
