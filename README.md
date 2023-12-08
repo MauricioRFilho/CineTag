@@ -1,74 +1,75 @@
-# Getting Started with Create React App
+# CineTag - Aplicativo React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao CineTag, um aplicativo React onde você pode explorar vídeos do meu canal, Mauriciootk.
 
-## Available Scripts
+## Scripts Disponíveis
 
-In the project directory, you can run:
+No diretório do projeto, você pode executar:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Inicia o aplicativo no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no seu navegador.\
+A página será recarregada quando você fizer alterações.\
+Você também pode ver quaisquer erros de lint no console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Inicia o executor de testes no modo de observação interativa.\
+Consulte a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Compila o aplicativo para produção na pasta `build`.\
+Ele agrupa corretamente o React em modo de produção e otimiza a construção para obter o melhor desempenho.\
+A construção é minificada, e os nomes de arquivo incluem os hashes.\
+Seu aplicativo está pronto para ser implantado!\
+Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Nota: esta é uma operação unilateral. Depois de fazer `eject`, você não pode voltar atrás!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Se você não estiver satisfeito com a ferramenta de construção e as escolhas de configuração, pode `eject` a qualquer momento.\
+Este comando removerá a única dependência de construção do seu projeto.\
+Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc.) diretamente para o seu projeto, para que você tenha controle total sobre eles.\
+Todos os comandos, exceto `eject`, ainda funcionarão, mas eles apontarão para os scripts copiados para que você possa ajustá-los.\
+Neste ponto, você está por conta própria.\
+Você não precisa usar `eject`. O conjunto de recursos organizados é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que essa ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Saiba Mais
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Você pode aprender mais na [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).\
+Para aprofundar no React, confira a [documentação do React](https://reactjs.org/).
 
-## Learn More
+### Divisão de Código
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Esta seção foi movida [aqui](https://facebook.github.io/create-react-app/docs/code-splitting).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Análise do Tamanho do Pacote
 
-### Code Splitting
+Esta seção foi movida [aqui](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Criando um Progressive Web App
 
-### Analyzing the Bundle Size
+Esta seção foi movida [aqui](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Configuração Avançada
 
-### Making a Progressive Web App
+Esta seção foi movida [aqui](https://facebook.github.io/create-react-app/docs/advanced-configuration).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Implantação
 
-### Advanced Configuration
+Esta seção foi movida [aqui](https://facebook.github.io/create-react-app/docs/deployment).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### `npm run build` falha na minificação
 
-### Deployment
+Esta seção foi movida [aqui](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Dependências Adicionais
 
-### `npm run build` fails to minify
+Para aprimorar seu aplicativo com o estilo do Bootstrap, certifique-se de instalar os pacotes necessários:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-
-`npm install react-bootstrap bootstrap`
+```bash
+npm install react-bootstrap bootstrap //Para funcionamento do slider.
+```
